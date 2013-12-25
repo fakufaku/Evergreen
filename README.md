@@ -24,7 +24,7 @@ Printing and cutting
 Mask files are provided to print eight boards at a time. Alignment points are also provided. After printing the mask, the printed side (with the ink) should go
 directly against the copper (hence the top mask is mirrored).
 
-The alignment marks on the cut outline correspond to the alignment mark of the line. This is to allow CNC cutting of the boards.
+The alignment marks on the cut outline correspond to the alignment mark of the mask. This is to allow CNC cutting of the boards.
 
 To print less boards, it is enough to delete the extra boards in the files.
 
